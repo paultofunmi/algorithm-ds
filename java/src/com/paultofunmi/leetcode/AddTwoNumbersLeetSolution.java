@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Copyright © 2021, Jumia.
+ * Copyright © 2021.
  */
 public class AddTwoNumbersLeetSolution {
 

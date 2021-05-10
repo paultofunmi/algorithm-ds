@@ -1,7 +1,7 @@
 package com.paultofunmi.hackerrank;
 
 /**
- * Copyright © 2021, Jumia.
+ * Copyright © 2021.
  *
  * Mark and Jane are very happy after having their first child. Their son loves toys, so Mark wants to buy some.
  * There are a number of different toys lying in front of him, tagged with their prices. Mark has only a certain amount to spend,

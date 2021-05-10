@@ -3,7 +3,7 @@ package com.paultofunmi.hackerrank;
 import java.util.Arrays;
 
 /**
- * Copyright © 2021, Jumia.
+ * Copyright © 2021.
  */
 public class ActivityNotification {
 
